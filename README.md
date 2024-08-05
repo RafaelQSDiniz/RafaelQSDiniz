@@ -1,4 +1,4 @@
-## Olá eu sou o Rafael Diniz, estudante de programação e tecnologia!
+## Olá! eu sou o Rafael Diniz, desenvolvedor backend!
 
 <div align="center">
   <a href="https://github.com/RafaelQSDiniz">
